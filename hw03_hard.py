@@ -10,7 +10,7 @@
 # Вывод: 1 1/3
 
 import math
-from fractionfun import Fraction
+from fractions import Fraction
 
 fun = input('Введите выражение (например, -12 5/6 - 1/6 + -3/4): \n')
 #fun = '-12 5/6 - 1/6 + -3/4'
